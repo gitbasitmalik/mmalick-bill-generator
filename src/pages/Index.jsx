@@ -20,7 +20,7 @@ const Index = () => {
   const [yourCompany] = useState({
     name: "M Malick & Sons",
     address: "57A Perrymann Farm Road, IG27LD, London",
-    phone: "+44-1234-123456",
+    phone: "+44-7455-859170",
     gst: generateGSTNumber(),
   });
 
